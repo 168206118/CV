@@ -15,8 +15,8 @@ contact: #联系方式连接等3~5行
 - text: "18079297476"
   href: 'tel:18079297476'
   icon: 'icons/phone.svg'
-- text: "19mike.xyz"
-  href: 'http://19mike.xyz'
+- text: "funnylink.xyz"
+  href: 'http://funnylink.xyz'
   icon: 'icons/web.svg'
 - text: "mikeTOliu"
   href: 'https://github.com/mikeTOliu'
